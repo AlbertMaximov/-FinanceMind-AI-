@@ -1,0 +1,6 @@
+{
+  "name": "Управление личными финансами AI",
+  "description": "AI-ассистент для личных финансов, помогающий принимать финансовые решения, анализировать расходы и достигать целей.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
